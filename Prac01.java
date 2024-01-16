@@ -16,6 +16,7 @@ public class Prac01 {
 		o1.b=sc.nextInt();
 		o1.c=o1.a+o1.b;
 		System.out.println(o1.a+"+"+o1.b+"="+o1.c);
+		sc.close();
 	}
 
 }
