@@ -5,7 +5,7 @@
 package JavaPracticals;
 public class Prac02 {
 	public static void main(String[] args) {
-		// Arithmetic operators
+	// Arithmetic operators
         int a = 10;
         int b = 5;
         int sum = a + b;
