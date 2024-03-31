@@ -36,8 +36,8 @@ class Box2 {
 		System.out.println("Volume is "+width*depth*height);
 	}
 
-public void finalize() throws Throwable{
-	System.out.println("My Box Object is garbage collected.");
+	public void finalize() throws Throwable{
+		System.out.println("My Box Object is garbage collected.");
 	}
 }
 public class Prac05{
